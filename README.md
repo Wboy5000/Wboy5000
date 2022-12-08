@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning javascript and html5 mabey even python 
 - 🌱 I’m currently learning javascript hopfuly
 - 💞️ I’m looking to collaborate on eaglercraft
-- 📫 How to reach me ill get it out soon
+- 📫 How to reach me w1829966@gmail.com
 
 <!---
 Wboy5000/Wboy5000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
